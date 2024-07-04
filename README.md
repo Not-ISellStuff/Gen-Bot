@@ -2,4 +2,6 @@
 Simple Discord Gen Bot Written in discord.py
 
 # Setup
-Go To settings.json and copy and paste your bot's token where it says "your bot's token here" and copy and paste the channel id of your gen channel where it says "your gen channel's id here"
+1. Go To settings.json and add your bot's token and your gen channel's id
+2. Open setup.bat it will install all the libraries that were used
+3. Run main.py
