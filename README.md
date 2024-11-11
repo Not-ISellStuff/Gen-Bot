@@ -3,6 +3,8 @@ Dev: ISellStuff
 # Gen-Bot
 Simple Discord Gen Bot Written In Python
 
+Make sure you add the bot token in settings.json
+
 Make sure you add the channel id of a channel | .gen command will only work in a specific channel
 
 # Commands
