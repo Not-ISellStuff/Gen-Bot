@@ -1,1 +1,4 @@
+Add Accounts Here | Can Be Anything
 
+The Bot Will Drop a Random Account When The .drop Command Is Used
+Add drops channel id in settings.json
