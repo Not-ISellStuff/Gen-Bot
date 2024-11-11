@@ -2,5 +2,7 @@
   "gen_channel": "channel id",
   "drops_channel": "channel id",
   "role_id": "role id",
-  "bot_prefix": "."
+  "bot_prefix": ".",
+
+  "bot_token": "your bots token"
 }
