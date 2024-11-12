@@ -9,6 +9,8 @@ Make sure you add the channel id of a channel | .gen command will only work in a
 
 # Commands
 
+**.help** - Shows all commands
+
 **.stock** - Displays The Available Accounts
 
 **.gen <account>** - Sends an account to your dms
